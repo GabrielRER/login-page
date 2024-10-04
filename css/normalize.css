@@ -1,0 +1,72 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  main {
+    display: block;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+  }
+  
+  ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
+  }
+  
+  button, input, select {
+    font: inherit;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    box-sizing: border-box;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:focus {
+    outline: none;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  
+  textarea {
+    resize: vertical;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    font-family: inherit;
+    font-size: inherit;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+  
